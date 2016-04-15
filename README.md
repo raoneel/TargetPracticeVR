@@ -1,5 +1,7 @@
 This is a simple Target Practice game built for cardboard.
 
+![Screenshot](http://i.imgur.com/Xs7GYWC.jpg) 
+
 Gameplay Video
 https://www.youtube.com/watch?v=XWjcJ8WKiKY&feature=youtu.be
 
